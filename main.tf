@@ -4,15 +4,15 @@ provider "okta" {
   api_token = "00DOd-xVcpbabW_7mSE48RZyb6Jo94-1o1rmnJ_GYf"
 }
 
-resource "okta_user" "two22" {
-  first_name = "san22"
-  last_name  = "pan22"
-  login      = "sandeep224597mac@gmail.com"
-  email      = "sandeep224597mac@gmail.com"
+resource "okta_user" "two44" {
+  first_name = "san44"
+  last_name  = "pan44"
+  login      = "sandeep444@gmail.com"
+  email      = "sandeep444@gmail.com"
   status     = "STAGED"
 }
 
-resource "okta_group" "example22" {
-  name        = "map22"
+resource "okta_group" "exa44" {
+  name        = "exa44"
   description = "My Example Group"
 }
