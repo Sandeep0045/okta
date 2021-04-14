@@ -1,5 +1,6 @@
 {
- "aws_access_key": "AKIA53ERCEAHANNWHN3L",
- "aws_secret_key": "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",
+
+ "aws_access_key": "",
+ "aws_secret_key": "",
 # "ssh_username": "ec2-user"
 }
